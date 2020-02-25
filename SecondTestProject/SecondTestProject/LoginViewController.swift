@@ -13,6 +13,7 @@ class LoginViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Login View Controller is Added")
+        print("Appointment branch Created")
         // Do any additional setup after loading the view.
     }
     
