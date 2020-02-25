@@ -15,6 +15,7 @@
 		CE77506824052F9F00E17043 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE77506624052F9F00E17043 /* LaunchScreen.storyboard */; };
 		CE7750702405303C00E17043 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE77506F2405303C00E17043 /* SecondViewController.swift */; };
 		CE7750722405328D00E17043 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7750712405328D00E17043 /* LoginViewController.swift */; };
+		CE7750742405337100E17043 /* OtpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7750732405337100E17043 /* OtpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CE77506924052F9F00E17043 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE77506F2405303C00E17043 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		CE7750712405328D00E17043 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		CE7750732405337100E17043 /* OtpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				CE77505F24052F9D00E17043 /* ViewController.swift */,
 				CE77506F2405303C00E17043 /* SecondViewController.swift */,
 				CE7750712405328D00E17043 /* LoginViewController.swift */,
+				CE7750732405337100E17043 /* OtpViewController.swift */,
 				CE77506124052F9D00E17043 /* Main.storyboard */,
 				CE77506424052F9F00E17043 /* Assets.xcassets */,
 				CE77506624052F9F00E17043 /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 			files = (
 				CE7750702405303C00E17043 /* SecondViewController.swift in Sources */,
 				CE77506024052F9D00E17043 /* ViewController.swift in Sources */,
+				CE7750742405337100E17043 /* OtpViewController.swift in Sources */,
 				CE77505C24052F9D00E17043 /* AppDelegate.swift in Sources */,
 				CE7750722405328D00E17043 /* LoginViewController.swift in Sources */,
 				CE77505E24052F9D00E17043 /* SceneDelegate.swift in Sources */,
