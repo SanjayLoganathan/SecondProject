@@ -12,7 +12,7 @@ class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("New functionality need to be added")
         // Do any additional setup after loading the view.
     }
     
